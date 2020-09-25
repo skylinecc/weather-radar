@@ -8,6 +8,7 @@ edition = "2018"
 
 [dependencies]
 gdk-pixbuf = "^0"
+ureq = "1.4.1"
 
 [dependencies.gtk]
 version = "0.8.1"
